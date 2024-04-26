@@ -1,0 +1,22 @@
+{
+  "name": "roa-dev-pkg",
+  "version": "1.0.0",
+  "description": "Roa Dev Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flobin-Git/roa-dev-package.git"
+  },
+  "keywords": [
+    "roa"
+  ],
+  "author": "robinahn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flobin-Git/roa-dev-package/issues"
+  },
+  "homepage": "https://github.com/Flobin-Git/roa-dev-package#readme"
+}
